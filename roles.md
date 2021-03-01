@@ -1,5 +1,8 @@
-# Class roles and responsibilities
-
+---
+layout: page
+title: Class roles and responsibilities
+permalink: /roles/
+---
 ## Lecturer
 
 The instructors for each class are responsible for the following:

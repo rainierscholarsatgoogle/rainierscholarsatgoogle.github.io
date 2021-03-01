@@ -1,7 +1,11 @@
-# Rainier Scholars CS Class
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-* [Home](https://sites.google.com/corp/view/rainier-scholars-cs-class/home?authuser=0)
-* [Class roles and responsibilities](https://sites.google.com/corp/view/rainier-scholars-cs-class/class-roles-and-responsibilities?authuser=0)
+layout: page
+title: Rainier Scholars CS Class
+permalink: /
+---
 
 Welcome!
 
@@ -32,8 +36,8 @@ We need all kinds of help!
 
 How to get started:
 
-*   Learn more about various volunteer [roles](roles).
-*   [Sign up](https://docs.google.com/spreadsheets/d/1Q4Y1j8UpYjDROK0JZlf7Fntopk3NcYAwhqGGzLjPPtg/edit#gid=0) for specific roles and dates.
+*   Learn more about various volunteer [roles](/roles/).
+*   [Sign up](https://docs.google.com/spreadsheets/d/1i0qL8LewBy21Psd4WjqZssN2kiGPe35VK27ebJYndhY/edit?usp=sharing) for specific roles and dates.
 *   Join our [rainier-scholars-cs-tas](https://groups.google.com/forum/#!forum/rainier-scholars-cs-tas/join) Google Group (mailing list).
 
 Looking for the class attendance sheet?
